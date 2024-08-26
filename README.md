@@ -31,7 +31,7 @@ This program demonstrates a basic implementation of a quiz game that can only be
 - Install the required dependencies:
 
    ```bash
-   npm install -g @sunodo/cli
+   npm i -g @cartesi/cli
    ```
 
 ## Installation
@@ -49,13 +49,13 @@ This program demonstrates a basic implementation of a quiz game that can only be
 1. build a Cartesi machine and run a local node for the application:
 
    ```bash
-   sunodo build
-   sunodo run
+   cartesi build
+   cartesi run
    ```
 
 2. Sending inputs:
      ```bash
-   sunodo send generic
+   cartesi send generic
    ```
 
    
